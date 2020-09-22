@@ -8,12 +8,12 @@
 
 <table>
 <tr>
-    <td>Enter the temperature to convert:</td>
+    <td>This is a new version of the temperature converter. Please enter the temperature to convert:</td>
     <td><input type="text" name="temp" id="temp" size="10"></td>
 </tr>
 
 <tr>
-    <td>Convert to:</td>
+    <td>I will convert that to:</td>
     <td><select name="scale" id="scale" size="1">
                <option disabled>Select the scale</option>
                <option value="c">Celsius</option>
